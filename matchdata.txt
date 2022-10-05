@@ -1,0 +1,22 @@
+Babar Azam,41 15 273.33
+Shan Masood,9 5 180.00
+Imam-ul-Haq,0 2 0.00
+Mohammad Rizwan,2 2 100.00
+Shahid Afridi,25 10 250.00
+Yasir Shah,5 4 125.00
+Saeed Ajmal,0 2 0.00 1.0 0
+Sajid Khan,0 1 0.00 1.5 3
+Shadab Khan,6 2 300.00 2.0 4
+Imad Wasim,0 2 0.00 2.0 2
+Shoaib Malik,13 6 216.67 2.0 1
+Aaron Finch,44 13 338.46
+David Warner,8 3 266.67
+Marnus Labuschagne,26 12 216.67
+Steve Smith,24 8 300.00
+David Cameron,23 7 328.57
+Luke Wright,2 3 66.67
+Adam Zampa,0 1 0.00 1.0 1
+Mitchel Swepson,0 1 0.00 1.3 1
+Pat Cummins,1 2 50.00 2.0 0
+Nathan Lyon,0 1 0.00 2.0 6
+Josh Hazlewood,9 2 450.00 2.0 2
